@@ -17,7 +17,6 @@ import org.testng.annotations.Listeners;
 
 import com.example.config.ConfigReader;
 
-import io.qameta.allure.Allure;
 import io.qameta.allure.Attachment;
 import io.qameta.allure.testng.AllureTestNg;
 
