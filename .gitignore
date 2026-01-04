@@ -1,0 +1,14 @@
+# Maven
+target/
+*.log
+
+# Allure
+.allure/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
