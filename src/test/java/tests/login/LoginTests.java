@@ -16,7 +16,7 @@ public class LoginTests extends BaseTest{
     @Story("Testing negative scenario")
     @Test
     public void testFail(){
-        LoginPage loginPage = new LoginPage(driver);
+        new LoginPage(driver);
         Assert.fail();
     }
     
